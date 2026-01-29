@@ -39,7 +39,7 @@ I'm **Eiji Azakami**, passionate about software development.
 
 ## 📊 GitHub Stats / GitHub統計
 
-![Eiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji-azakami&show_icons=true&theme=tokyonight)
+![Eiji Azakami's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiji-azakami&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiji-azakami&layout=compact&theme=tokyonight)
 
@@ -48,16 +48,16 @@ I'm **Eiji Azakami**, passionate about software development.
 ## 📫 How to reach me / 連絡先
 
 - GitHub: [@eiji-azakami](https://github.com/eiji-azakami)
-- Email: お問い合わせはGitHub経由でお願いします
+- Email: お問い合わせはGitHub経由でお願いします / Please contact via GitHub
 
 ---
 
 ## 🎯 Current Goals / 現在の目標
 
-- [ ] オープンソースプロジェクトへの貢献を増やす
-- [ ] 新しいプログラミング言語の習得
-- [ ] テクニカルブログの執筆
-- [ ] より多くの実用的なプロジェクトの開発
+- [ ] オープンソースプロジェクトへの貢献を増やす / Contribute more to open source projects
+- [ ] 新しいプログラミング言語の習得 / Learn new programming languages
+- [ ] テクニカルブログの執筆 / Write technical blog posts
+- [ ] より多くの実用的なプロジェクトの開発 / Develop more practical projects
 
 ---
 
