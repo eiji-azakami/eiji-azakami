@@ -1,8 +1,8 @@
 # 👋 こんにちは！ / Hello!
 
-私は **Eiji Azakami** です。ソフトウェア開発に情熱を注いでいます。
+私は **Eiji Azakami** です。ソフトウェア開発を生業にしています。
 
-I'm **Eiji Azakami**, passionate about software development.
+I am **Eiji Azakami**. I make a living in software development.
 
 ---
 
